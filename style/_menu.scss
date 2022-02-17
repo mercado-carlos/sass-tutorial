@@ -8,7 +8,7 @@
     cursor: pointer;
     @include transition-ease;
 
-    %__burger {
+    &__burger {
         position: absolute;
         right: 0;
         top: 0.5rem;
